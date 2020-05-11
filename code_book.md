@@ -1,6 +1,8 @@
 
 # getting_and_cleaning_data_project_samsung
 Coursera Data Science Specialization - Getting and Cleaning Data Project
+**Data Source for Code:**
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 In this repository, you will find R code (run_analysis.R) which successfully does the following with the UCI Human Activity Recognition Using Smartphones Data Set:
  1) Merges the training and the test sets to create one data set.
